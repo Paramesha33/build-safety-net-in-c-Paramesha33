@@ -1,7 +1,6 @@
 Objective: To validate the generateSoundex function with multiple test cases that cover a variety of scenarios, including names with different consonants, vowels, special characters, and apostrophes, ensuring the function returns the correct 4-character Soundex code.
  
 // Testcase 1: Common Name Soundex Conversion
-Testcase name : HandleCommonName
 Test Scenario: Verifies the Soundex conversion of a common name with standard consonants.
 Purpose: Ensure that a common name is correctly converted into its Soundex representation, including the appropriate translation of consonants into digits.
   Input:           Expected Output:
